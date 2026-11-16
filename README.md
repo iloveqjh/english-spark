@@ -17,6 +17,8 @@
 
 公开版内置 **6 课、24 句**，课程来自 VOA Learning English 儿童英语和 Storybooks Canada 的入门故事，覆盖自我介绍、家人、日常对话和故事朗读。音频已随安装包提供。学习记录保存在设备上，App 无需账号。
 
+<img src="docs/home.png" alt="英语小火苗公开版首页" width="290">
+
 ## 在安卓手机上安装
 
 支持 Android 8.0 及以上。进入 [Releases](https://github.com/iloveqjh/english-spark/releases/latest)，下载 `.apk`。在手机的文件管理器里打开安装包，按系统提示安装。安装后从桌面打开「英语小火苗」。
