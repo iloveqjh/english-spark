@@ -1,0 +1,16 @@
+/build/
+/.signing/
+/public-content/
+/android/local.properties
+**/.gradle/
+**/.idea/
+**/build/
+*.iml
+*.apk
+*.apks
+*.aab
+*.idsig
+*.jks
+*.keystore
+*.p12
+*.password
